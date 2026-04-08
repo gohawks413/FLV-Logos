@@ -4,5 +4,5 @@ FLV  is a Valorant community series catering to players of all ranks and experie
 <br>Twitch - https://www.twitch.tv/firstlightval
 <br>Twitter - https://twitter.com/FirstLightVal
 <br>Discord -  https://discord.gg/flv
-<br>YouTube - https://www.youtube.com/channel/UCqATH6TScSS-cLDi021JbJg
+<br>YouTube -  https://www.youtube.com/@firstlightvalorant
 
